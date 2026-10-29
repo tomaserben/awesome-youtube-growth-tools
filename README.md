@@ -52,6 +52,7 @@
 
 - **[Notion](https://www.notion.so)** — Flexible workspace commonly used for content calendars and script drafting.
 - **[Trello](https://trello.com)** — Kanban-style board tool for planning video production pipelines.
+- **[FacelessShorts](https://facelessshorts.io)** — Generates narrated, captioned faceless short-form series with scheduled publishing to YouTube Shorts, TikTok, and Instagram Reels.
 - **[Google Calendar](https://calendar.google.com)** — Widely used for scheduling recording, editing, and publishing deadlines.
 - **[Airtable](https://airtable.com)** — Spreadsheet-database hybrid for tracking video ideas and publishing schedules.
 - **[TubeBuddy Schedule](https://www.tubebuddy.com)** — Bulk scheduling and publish-time optimization for YouTube uploads.
